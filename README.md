@@ -1,19 +1,19 @@
 # SLC Convention Registration Procedures
 
-* # [Setup Procedures](Setup-Procedure)
+* # [Setup Procedures](https://github.com/4liferesearch/SLCConventionReg/wiki/Setup-Procedure)
 
-* # [Convention Store Testing](2015 Convention Store Testing)
+* # [Convention Store Testing](https://github.com/4liferesearch/SLCConventionReg/wiki/2015%20Convention%20Store%20Testing)
 
-  ### [Test Scenarios](Convention Store Test Scenarios)
+  ### [Test Scenarios](https://github.com/4liferesearch/SLCConventionReg/wiki/Convention%20Store%20Test%20Scenarios)
 
-* # [Express Checkout Order Testing](2015 Web Express Checkout Order Testing)
+* # [Express Checkout Order Testing](https://github.com/4liferesearch/SLCConventionReg/wiki/2015%20Web%20Express%20Checkout%20Order%20Testing)
 
-  ### [Test Scenarios](Express Test Scenarios)
+  ### [Test Scenarios](https://github.com/4liferesearch/SLCConventionReg/wiki/Express%20Test%20Scenarios)
 
-* # [Registration Testing](2015 Registration Testing)
+* # [Registration Testing](https://github.com/4liferesearch/SLCConventionReg/wiki/2015%20Registration%20Testing)
 
-  ### [Test Scenarios](Registration Test Scenarios) 
+  ### [Test Scenarios](https://github.com/4liferesearch/SLCConventionReg/wiki/Registration%20Test%20Scenarios) 
 
-* # [Inventory Picking](Inventory Picking)
+* # [Inventory Picking](https://github.com/4liferesearch/SLCConventionReg/wiki/Inventory%20Picking)
 
-  ### [Product Tiers](Product Tiers)
+  ### [Product Tiers](https://github.com/4liferesearch/SLCConventionReg/wiki/Product%20Tiers)
