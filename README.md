@@ -1,4 +1,4 @@
-# SLCConventionReg
+# SLC Convention Registration Procedures
 
 * # [Setup Procedures](Setup-Procedure)
 
